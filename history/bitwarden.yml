@@ -1,7 +1,7 @@
 url: $SS_BW
-status: down
-code: 530
-responseTime: 512
-lastUpdated: 2025-04-17T07:53:35.723Z
+status: up
+code: 200
+responseTime: 981
+lastUpdated: 2025-04-17T08:00:18.823Z
 startTime: 2025-04-17T07:00:14.084Z
 generator: Upptime <https://github.com/upptime/upptime>
