@@ -6,18 +6,15 @@ sites:
   - name: Status Page
     url: https://status.ifry.fyi
     icon: https://static-00.iconduck.com/assets.00/statuspage-icon-512x376-dwgwn32f.png
-    expectedStatusCodes:
-      - 301
+    method: GET
   - name: Bitwarden
     url: $SS_BW
     icon: https://images.saasworthy.com/bitwarden_32699_logo_1667563601_unbxr.png
-    expectedStatusCodes:
-      - 301
+    method: GET
   - name: MessBot
     url: https://mess.ifry.fyi
     icon: https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/619442eb8b3fab3eda4c29eb_Author-Wumpus-Webflow.png
-    expectedStatusCodes:
-      - 301
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
