@@ -1,6 +1,5 @@
-# Change these first
-owner: mrfryingpan # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: mrfryingpan
+repo: status
 
 sites:
   - name: Status Page
@@ -14,10 +13,7 @@ sites:
     icon: https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/619442eb8b3fab3eda4c29eb_Author-Wumpus-Webflow.png
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ifry.fyi
-  # baseUrl: /your-repo-name
   theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.ifry.fyi
@@ -28,6 +24,5 @@ status-website:
       href: /
     - title: Home
       href: https://ifry.fyi
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: Made with &#128420, by [MrFryingPan](https://dsc.gg/mess).
