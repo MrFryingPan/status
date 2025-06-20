@@ -1,7 +1,7 @@
 url: https://status.ifry.fyi
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-19T23:10:47.707Z
+status: up
+code: 200
+responseTime: 367
+lastUpdated: 2025-06-20T13:05:53.021Z
 startTime: 2025-04-17T07:00:11.496Z
 generator: Upptime <https://github.com/upptime/upptime>
